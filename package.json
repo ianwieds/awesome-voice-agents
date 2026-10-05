@@ -1,8 +1,8 @@
 {
-  "name": "awesome-template",
+  "name": "awesome-voice-agents",
   "version": "1.0.0",
   "private": true,
-  "description": "A GitHub template for a curated awesome list, with checked pull requests.",
+  "description": "Frameworks, realtime speech APIs, speech models and hosted platforms for AI agents that talk and listen.",
   "license": "CC0-1.0",
   "scripts": {
     "test": "node --test \"tests/*.test.js\"",
