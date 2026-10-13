@@ -179,6 +179,7 @@ A voice agent is an AI agent you talk to: it listens, decides what to do, and an
 - [Porcupine](https://github.com/Picovoice/porcupine) - On-device wake word engine with custom wake words.
 - [Silero VAD](https://github.com/snakers4/silero-vad) - Small, fast pretrained voice activity detector used across voice agent stacks.
 - [Smart Turn](https://github.com/pipecat-ai/smart-turn) - Open audio model from Pipecat that detects when a speaker has finished a turn.
+- [Tazo Labs](https://tazolabs.com/) - Speech-to-decision models for voice agents, such as speculative tool calling and end-call detection.
 - [TEN Turn Detection](https://github.com/TEN-framework/ten-turn-detection) - Model that tells whether a user is done, still talking or asking the agent to wait.
 - [TEN VAD](https://github.com/TEN-framework/ten-vad) - Low-latency, lightweight voice activity detector for conversational agents.
 - [VAD for the browser](https://github.com/ricky0123/vad) - JavaScript voice activity detection that runs Silero VAD in the browser or Node.js.
