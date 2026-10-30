@@ -195,6 +195,7 @@ A voice agent is an AI agent you talk to: it listens, decides what to do, and an
 ### Telephony
 
 - [AVA](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - Open-source voice agent that plugs into Asterisk and FreePBX phone systems.
+- [Call Me](https://github.com/radres/call-me) - Lets an AI agent phone your iPhone or Android, read a question aloud and take your spoken answer.
 - [jambonz](https://www.jambonz.org) - Self-hosted voice platform that connects carriers and SIP trunks to your own voice AI.
 - [Twilio ConversationRelay](https://www.twilio.com/docs/voice/conversationrelay) - Twilio service that handles speech on a call and talks to your agent as text over WebSocket.
 - [Twilio Media Streams](https://www.twilio.com/docs/voice/media-streams) - Streams raw call audio to and from your server over WebSocket.
