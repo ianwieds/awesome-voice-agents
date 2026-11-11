@@ -77,6 +77,7 @@ A voice agent is an AI agent you talk to: it listens, decides what to do, and an
 - [Bland AI](https://www.bland.ai) - Enterprise platform for building and running phone call agents.
 - [Cartesia Line](https://cartesia.ai/line) - Managed voice agent platform from Cartesia with a code-first Python SDK.
 - [ElevenLabs Agents](https://elevenlabs.io/agents) - ElevenLabs platform for voice and chat agents with tools, telephony and testing.
+- [Genaya AI Receptionist](https://genaya.com/products/ai-receptionist) - Voice agent that answers a business phone line and books appointments.
 - [LiveKit Cloud](https://livekit.io/cloud) - Managed hosting, telephony and observability for LiveKit voice agents.
 - [Millis AI](https://www.millis.ai) - Platform for building low-latency voice agents for the web and the phone.
 - [Pipecat Cloud](https://www.daily.co/products/pipecat-cloud/) - Daily's managed hosting for deploying and scaling Pipecat voice agents.
