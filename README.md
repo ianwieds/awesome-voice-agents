@@ -247,10 +247,10 @@ A voice agent is an AI agent you talk to: it listens, decides what to do, and an
 - [Turn detection and endpointing](https://www.assemblyai.com/blog/turn-detection-endpointing-voice-agent) - AssemblyAI explainer on how voice agents decide when to respond.
 - [Voice AI and Voice Agents](https://voiceaiandvoiceagents.com) - Illustrated primer on building voice agents, from models to latency to turn-taking.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
