@@ -80,6 +80,7 @@ A voice agent is an AI agent you talk to: it listens, decides what to do, and an
 - [LiveKit Cloud](https://livekit.io/cloud) - Managed hosting, telephony and observability for LiveKit voice agents.
 - [Millis AI](https://www.millis.ai) - Platform for building low-latency voice agents for the web and the phone.
 - [Pipecat Cloud](https://www.daily.co/products/pipecat-cloud/) - Daily's managed hosting for deploying and scaling Pipecat voice agents.
+- [PlaceCall](https://voygr.tech/placecall/) - Hosted agent that places outbound phone calls to US businesses and returns the call outcome.
 - [PolyAI](https://poly.ai) - Enterprise voice agents that answer customer service phone lines.
 - [Retell AI](https://www.retellai.com) - Platform for building, testing and deploying phone voice agents.
 - [Synthflow](https://synthflow.ai) - No-code platform for voice agents that answer and place phone calls.
