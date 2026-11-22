@@ -170,6 +170,7 @@ A voice agent is an AI agent you talk to: it listens, decides what to do, and an
 - [Inworld TTS](https://inworld.ai/tts) - Low-latency TTS API with voice cloning.
 - [OpenAI Text to Speech](https://platform.openai.com/docs/guides/text-to-speech) - OpenAI speech API with voices you can steer by instruction.
 - [Rime](https://rime.ai) - TTS models trained on conversational speech for phone and voice agents.
+- [Speakvora](https://speakvora.com/text-to-speech) - Streaming text-to-speech API with first audio in about 44 ms on its own hardware.
 
 ## Turn-taking and audio
 
